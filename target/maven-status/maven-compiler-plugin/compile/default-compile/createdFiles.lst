@@ -1,0 +1,8 @@
+com\hospital\management\repository\DoctorRepository.class
+com\hospital\management\model\Patient.class
+com\hospital\management\controller\PatientController.class
+com\hospital\management\service\PatientServiceImpl.class
+com\hospital\management\service\PatientService.class
+com\hospital\management\repository\PatientRepository.class
+com\hospital\management\model\Doctor.class
+com\hospital\management\HospitalManagementApplication.class

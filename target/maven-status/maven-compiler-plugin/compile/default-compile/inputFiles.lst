@@ -1,0 +1,12 @@
+D:\Downloads\hospital-management\hospital-management\src\main\java\com\hospital\management\config\SecurityConfig.java
+D:\Downloads\hospital-management\hospital-management\src\main\java\com\hospital\management\controller\PatientController.java
+D:\Downloads\hospital-management\hospital-management\src\main\java\com\hospital\management\HospitalManagementApplication.java
+D:\Downloads\hospital-management\hospital-management\src\main\java\com\hospital\management\model\Doctor.java
+D:\Downloads\hospital-management\hospital-management\src\main\java\com\hospital\management\model\Patient.java
+D:\Downloads\hospital-management\hospital-management\src\main\java\com\hospital\management\model\User.java
+D:\Downloads\hospital-management\hospital-management\src\main\java\com\hospital\management\repository\DoctorRepository.java
+D:\Downloads\hospital-management\hospital-management\src\main\java\com\hospital\management\repository\PatientRepository.java
+D:\Downloads\hospital-management\hospital-management\src\main\java\com\hospital\management\repository\UserRepository.java
+D:\Downloads\hospital-management\hospital-management\src\main\java\com\hospital\management\service\CustomUserDetailsService.java
+D:\Downloads\hospital-management\hospital-management\src\main\java\com\hospital\management\service\PatientService.java
+D:\Downloads\hospital-management\hospital-management\src\main\java\com\hospital\management\service\PatientServiceImpl.java
